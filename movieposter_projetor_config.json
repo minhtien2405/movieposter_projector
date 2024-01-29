@@ -1,0 +1,20 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+          1000,
+          50
+        ],
+        "tensorPath": "https://github.com/minhtien2405/movieposter.github.io/blob/master/feature_vecs.tsv",
+        "metadataPath": "https://github.com/minhtien2405/movieposter.github.io/blob/master/metadata.tsv",
+        "sprite": {
+          "imagePath": "https://github.com/minhtien2405/movieposter.github.io/blob/master/sprite.jpg",
+          "singleImageDim": [
+            128,
+            128
+          ]
+        }
+      }
+    ]
+    }
